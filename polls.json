@@ -1,0 +1,364 @@
+{
+	"Runs": 100,
+	"Method": "CoinFlip",
+	"Key": "",
+	"Polls": [
+		{
+			"State": "Al",
+			"Trump": 58,
+			"Biden": 38,
+			"Variance": 4,
+			"Electors": 9
+		},
+		{
+			"State": "AK",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 25,
+			"Electors": 3
+		},
+		{
+			"State": "AZ",
+			"Trump": 43,
+			"Biden": 52,
+			"Variance": 4,
+			"Electors": 11
+		},
+		{
+			"State": "AR",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 25,
+			"Electors": 6
+		},
+		{
+			"State": "CA",
+			"Trump": 29,
+			"Biden": 67,
+			"Variance": 3.3,
+			"Electors": 55
+		},
+		{
+			"State": "CO",
+			"Trump": 45,
+			"Biden": 55,
+			"Variance": 5,
+			"Electors": 9
+		},
+		{
+			"State": "CN",
+			"Trump": 35,
+			"Biden": 49,
+			"Variance": 4,
+			"Electors": 7
+		},
+		{
+			"State": "DE",
+			"Trump": 40,
+			"Biden": 56,
+			"Variance": 5,
+			"Electors": 3
+		},
+		{
+			"State": "DC",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 25,
+			"Electors": 3
+		},
+		{
+			"State": "FL",
+			"Trump": 43,
+			"Biden": 46,
+			"Variance": 3,
+			"Electors": 29
+		},
+		{
+			"State": "GE",
+			"Trump": 51,
+			"Biden": 43,
+			"Variance": 2.9,
+			"Electors": 16
+		},
+		{
+			"State": "HI",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 25,
+			"Electors": 4
+		},
+		{
+			"State": "ID",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 3.1,
+			"Electors": 4
+		},
+		{
+			"State": "IL",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 25,
+			"Electors": 20
+		},
+		{
+			"State": "IN",
+			"Trump": 52,
+			"Biden": 39,
+			"Variance": 25,
+			"Electors": 11
+		},
+		{
+			"State": "IO",
+			"Trump": 51,
+			"Biden": 41,
+			"Variance": 3.8,
+			"Electors": 6
+		},
+		{
+			"State": "KS",
+			"Trump": 52,
+			"Biden": 40,
+			"Variance": 2.5,
+			"Electors": 6
+		},
+		{
+			"State": "KY",
+			"Trump": 53,
+			"Biden": 41,
+			"Variance": 4,
+			"Electors": 8
+		},
+		{
+			"State": "LA",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 25,
+			"Electors": 8
+		},
+		{
+			"State": "ME",
+			"Trump": 42,
+			"Biden": 52,
+			"Variance": 3.3,
+			"Electors": 4
+		},
+		{
+			"State": "MD",
+			"Trump": 35,
+			"Biden": 60,
+			"Variance": 3.6,
+			"Electors": 10
+		},
+		{
+			"State": "MA",
+			"Trump": 31,
+			"Biden": 69,
+			"Variance": 3.6,
+			"Electors": 11
+		},
+		{
+			"State": "MI",
+			"Trump": 44,
+			"Biden": 51,
+			"Variance": 2.7,
+			"Electors": 16
+		},
+		{
+			"State": "MN",
+			"Trump": 38,
+			"Biden": 50,
+			"Variance": 3.5,
+			"Electors": 10
+		},
+		{
+			"State": "MS",
+			"Trump": 49,
+			"Biden": 38,
+			"Variance": 4.3,
+			"Electors": 6
+		},
+		{
+			"State": "MO",
+			"Trump": 52,
+			"Biden": 32,
+			"Variance": 3,
+			"Electors": 10
+		},
+		{
+			"State": "MT",
+			"Trump": 56,
+			"Biden": 34,
+			"Variance": 4.4,
+			"Electors": 3
+		},
+		{
+			"State": "NR",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 25,
+			"Electors": 5
+		},
+		{
+			"State": "NV",
+			"Trump": 39,
+			"Biden": 47,
+			"Variance": 2.5,
+			"Electors": 6
+		},
+		{
+			"State": "NH",
+			"Trump": 46,
+			"Biden": 44,
+			"Variance": 4.4,
+			"Electors": 4
+		},
+		{
+			"State": "NJ",
+			"Trump": 38,
+			"Biden": 54,
+			"Variance": 3.9,
+			"Electors": 14
+		},
+		{
+			"State": "NM",
+			"Trump": 40,
+			"Biden": 52,
+			"Variance": 3.1,
+			"Electors": 5
+		},
+		{
+			"State": "NY",
+			"Trump": 29,
+			"Biden": 65,
+			"Variance": 3.7,
+			"Electors": 29
+		},
+		{
+			"State": "NC",
+			"Trump": 45,
+			"Biden": 50,
+			"Variance": 5.5,
+			"Electors": 15
+		},
+		{
+			"State": "ND",
+			"Trump": 55,
+			"Biden": 38,
+			"Variance": 4.9,
+			"Electors": 3
+		},
+		{
+			"State": "OH",
+			"Trump": 44,
+			"Biden": 45,
+			"Variance": 3.7,
+			"Electors": 18
+		},
+		{
+			"State": "OK",
+			"Trump": 62,
+			"Biden": 34,
+			"Variance": 4.3,
+			"Electors": 7
+		},
+		{
+			"State": "OR",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 25,
+			"Electors": 7
+		},
+		{
+			"State": "PA",
+			"Trump": 44,
+			"Biden": 51,
+			"Variance": 2.8,
+			"Electors": 20
+		},
+		{
+			"State": "RI",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 25,
+			"Electors": 4
+		},
+		{
+			"State": "SC",
+			"Trump": 52,
+			"Biden": 40,
+			"Variance": 2.7,
+			"Electors": 9
+		},
+		{
+			"State": "SD",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 25,
+			"Electors": 3
+		},
+		{
+			"State": "TN",
+			"Trump": 55,
+			"Biden": 39,
+			"Variance": 4,
+			"Electors": 11
+		},
+		{
+			"State": "TX",
+			"Trump": 46,
+			"Biden": 47,
+			"Variance": 2.8,
+			"Electors": 38
+		},
+		{
+			"State": "UT",
+			"Trump": 51,
+			"Biden": 32,
+			"Variance": 3.2,
+			"Electors": 6
+		},
+		{
+			"State": "VT",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 25,
+			"Electors": 3
+		},
+		{
+			"State": "VA",
+			"Trump": 41,
+			"Biden": 51,
+			"Variance": 5.7,
+			"Electors": 13
+		},
+		{
+			"State": "WA",
+			"Trump": 39,
+			"Biden": 52,
+			"Variance": 4.1,
+			"Electors": 12
+		},
+		{
+			"State": "WV",
+			"Trump": 66,
+			"Biden": 31,
+			"Variance": 4.4,
+			"Electors": 5
+		},
+		{
+			"State": "WI",
+			"Trump": 45,
+			"Biden": 50,
+			"Variance": 5,
+			"Electors": 10
+		},
+		{
+			"State": "WY",
+			"Trump": 50,
+			"Biden": 50,
+			"Variance": 25,
+			"Electors": 3
+		}
+	]
+}
