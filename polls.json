@@ -1,7 +1,7 @@
 {
-	"Runs": 100,
-	"Method": "CoinFlip",
-	"Key": "",
+	"Runs": 10000,
+	"Method": "BellCurve",
+	"Key": "0ede981d-b210-4626-a6cb-99c3dc279fca",
 	"Polls": [
 		{
 			"State": "Al",

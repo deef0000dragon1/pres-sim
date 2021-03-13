@@ -1,0 +1,2 @@
+https://projects.fivethirtyeight.com/polls/president-general/polls.json
+https://www.270towin.com/polls/php/get-early-polls.php?election_year=2020&candidate_name_rep=Trump&candidate_name_dem=Biden&sort_by=state&include_3Party=false
